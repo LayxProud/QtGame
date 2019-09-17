@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>bgsound.mp3</file>
+        <file>bru.mp3</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>img/bgimg.jpg</file>
+        <file>img/boomer.png</file>
+        <file>img/bullet.png</file>
+        <file>img/zoomer.png</file>
+    </qresource>
+</RCC>
